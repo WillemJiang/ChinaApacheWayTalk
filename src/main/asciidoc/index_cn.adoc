@@ -21,25 +21,18 @@
 :description: 介绍ASF以及Apache之道的60分钟演讲
 :keywords: Apache之道
 :authors: 演讲者 + \
-Craig Russell + \
-Justin Mclean + \
 姜宁 + \
-本演讲包含了 Bertrand Delacretaz, Roman Shaposhnik 以及其它ASF贡献者的工作
+本演讲包含了 Bertrand Delacretaz, Roman Shaposhnik,Justin Mclean,Craig Russell 以及其它ASF贡献者的工作
 image::ApacheLogo.png[]
 
 == 解读Apache
 {authors} +
 
-== Craig Russell介绍
-* 软件架构师
-** Object Data Management Group
-** Java Data Objects (JDO)
-** Database Jones (MySQL)
-* Apache Committer - from 2005
-* Apache Member - from 2007
-* Apache Secretary - from 2010-2019
-* Apache 孵化器管理委员成员
-* Apache 董事会主席
+== 姜宁介绍
+* 华为开源能力中心技术专家
+* 前红帽软件主任工程师
+* Apache会员
+* Apache ServiceComb项目负责人
 
 == Apache 软件基金会:
 [.big]#*世界上最大的开源基金会*#
@@ -136,15 +129,6 @@ image::ApacheIncubatorLogo.png[]
 == Apache孵化器解读
 image::ApacheIncubator.jpg[width=40%]
 
-== Justin Mclean介绍
-* 25年+自由开发者
-** 悉尼IoT Meetup
-* Apache Committer - from 2012
-* Apache Member - from 2014
-* Apache 孵化器管理委员成员
-* VP Apache 孵化器, VP Apache Mynewt
-* IoTDB, Dubbo, RocketMQ，Apex项目导师
-
 == Apache孵化器
 [.twocolumns]
 --
@@ -233,12 +217,6 @@ image:fireworks.jpg[]
 == ServiceComb 孵化记录
 
 image:ServiceCombIncubating.png[]
-
-== 姜宁介绍
-* 华为开源能力中心技术专家
-* 前红帽软件主任工程师
-* Apache会员
-* Apache ServiceComb项目负责人
 
 == ServiceComb 简介
 * **Java Chassis** - 具有 MicroServices 管理的高性能Java 服务引擎
