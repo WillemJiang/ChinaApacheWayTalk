@@ -21,25 +21,19 @@
 :description: 60 minute talk on the ASF foundation and the Apache Way
 :keywords: Apache Way
 :authors: Presented by + \
-Craig Russell + \
-Justin Mclean + \
 Willem Jiang + \
-Including original work of Bertrand Delacretaz, Roman Shaposhnik and other amazing ASF contributors
+Including original work of Bertrand Delacretaz, Roman Shaposhnik, Justin Mclean,Craig Russell and other amazing ASF contributors
 image::ApacheLogo.png[]
 
-== Apache Explained
+== Growing Community, The Apache Way
 {authors} +
 
-== Who is Craig Russell?
-* Software Architect
-** Object Data Management Group
-** Java Data Objects (JDO)
-** Database Jones (MySQL)
-* Apache Committer - from 2005
-* Apache Member - from 2007
-* Apache Secretary - 2010 - 2019
-* Member, Incubator Project Management Committee
-* Chairman, Apache Board of Directors
+== Who is Willem Jiang ?
+* Huawei OpenSource Center Technical Expert
+* Former RedHat Principal Engineer
+* Apache Member
+* Apache Incubator Mentors
+* VP Apache ServiceComb
 
 == Apache Software Foundation: The World’s Largest Open Source Foundation
 
@@ -61,8 +55,8 @@ image::ApacheProjects.png[]
 image::ApacheHttpd.png[]
 
 [.big]#**World's Most Popular Server** +
-2019 24th Anniversary +
-(20 years at the ASF)#
+2020 25th Anniversary +
+(21 years at the ASF)#
 
 == Apache Project Domains
 * Artificial Intelligence
@@ -84,12 +78,12 @@ Blockchain
 [.big]#The Apache Way#
 
 == “The Apache Way” core principles
-* Rough consensus and working code
-* Small reversible steps
-* Any constructive contribution DOES earn merit... while corporate affiliation and seniority DOESN’T
-* Merit doesn't expire
-* Merit doesn't give you authority; it gives you access
-* No BDFLs, no vetoes - relying on building consensus instead
+* collaborative software development
+* commercial-friendly standard license
+* consistently high quality software
+* respectful, honest, technical-based interaction
+* faithful implementation of standards
+* security as a mandatory feature
 
 == !
 [.big]#**“The Apache Way” +
@@ -135,14 +129,6 @@ image::ApacheIncubatorLogo.png[]
 == Podlings Undergoing Development
 image::ApacheIncubator.jpg[width=40%]
 
-== Who is Justin Mclean?
-* Freelance developer for 25+ years
-** IoT Meetup Sydney
-* Apache Committer - from 2012
-* Apache Member - from 2014
-* Member, Incubator Project Management Committee
-* VP Apache Incubator, VP Apache Mynewt
-* Mentor for IoTDB, Dubbo, RocketMQ and Apex
 
 == The Apache Incubator
 [.twocolumns]
@@ -165,13 +151,14 @@ image::bridge.jpg[width=70%]
 image::spiral.jpg[width=70%]
 --
 
-== Community Building
-* **Politeness** — Be nice
-* **Respect** — Everyone’s point of view has value
-* **Trust** — Assume the best intentions
-* **Humility** — Others might have better ideas
-
-[.small]#Code of conduct: https://www.apache.org/foundation/policies/conduct.html#
+== Find a way to Apache
+* Writing a proposal of your project
+* Finding a Champion and Mentors
+* Proposal discussion in IPMC
+* Starting a vote of your proposal
+* Creating a podling project inside of Apache Incubator
+* SGA, CLA, iCLA Signing
+* Podling name searching
 
 == Licensing is a key aspect
 * **Provenance** — Establish where every line of code originated
@@ -186,75 +173,6 @@ image::spiral.jpg[width=70%]
 * Free for commercial and non-commercial use
 * Compatible with other Open Source licenses
 
-== Licensing
-* **Category A** - can depend on and include in release
-** MIT, 2 and 3 clause BSD
-* **Category B** - can depend and may be able to include
-** Common Development and Distribution License (CDDL), Eclipse Public License (EPL), Mozilla Public License (MPL), Creative Common Attribution (CC-A)
-* **Category X** - can't depend on or include in release
-** GPL, LGPL, non commercial licenses, JSON
-
-== Release distributions
-* Legally an act of the Foundation
-** “Does NOT need to work”
-** “Does need proper licensing”
-* Authorized by the Project Management Committee
-** Vote required
-** Digital Signature(s) required
-* Distributed via extensive mirror system
-
-== Releases
-* Are signed
-* Need an incubating disclaimer
-* Have LICENSE and NOTICE files
-* Follows license terms of ALv2 and any included 3rd party software
-* Source files have ASF headers
-* Consist of source with no compiled code
-
-== Binary releases
-* Are not required
-* Are not official releases
-* Also need to follow policy
-
-
-== Graduation
-[.twocolumns]
---
-* Demonstrate that the project can operate independently:
-** Self-governance
-** Release management
-* Establish legal framework
-* Publicity
-
-image:fireworks.jpg[float=right]
---
-
-== ServiceComb Incubating Journey
-
-image:ServiceCombIncubating.png[]
-
-== Who is Willem Jiang ?
-* Huawei OpenSource Center Technical Expert
-* Former RedHat Principal Engineer
-* Apache Member
-* VP Apache ServiceComb
-
-== ServiceComb Introduction
-* **Java Chassis** - High performance Java service engine with MicroServices governance
-* **Service Center** - High performance Service Center based on Etcd
-* **Pack** - A Centrical distributed transaction coordinator which supports Saga and TCC
-* **Mesher** - A services mesh implementation based on Go
-* **Kie** - A new designed MicroServices configuration center
-
-== Find a way to Apache
-* Writing a proposal of your project
-* Finding a Champion and Mentors
-* Proposal discussion in IPMC
-* Starting a vote of your proposal
-* Creating a podling project inside of Apache Incubator
-* SGA, CLA, iCLA Signing
-* Podling name searching
-
 == Integrating with Apache Infrastructure
 * **Mail lists** — “If it isn't on an archived list, it didn't happen”.
 * **Issues** - Using JIRA or github issue to track the development related issues.
@@ -267,6 +185,14 @@ image:ServiceCombIncubating.png[]
 * **Contributors** — Our projects depend on contributions from the community -- bug reports, email discussions, bug fixes, documentation
 * **Committers** — Frequent contributors become committers after demonstrating merit
 * **Project Management Committee Members** — The PMC is responsible for setting the direction of the project, authorizing releases, and voting new committers and PMC members
+
+== Community Building
+* **Politeness** — Be nice
+* **Respect** — Everyone’s point of view has value
+* **Trust** — Assume the best intentions
+* **Humility** — Others might have better ideas
+
+[.small]#Code of conduct: https://www.apache.org/foundation/policies/conduct.html#
 
 == Growing the community
 * Raising The Profile
@@ -312,8 +238,20 @@ image:ServiceCombIncubating.png[]
 
 [.small]#http://community.apache.org/apache-way/apache-project-maturity-model.html#
 
-== Support The ASF
-* The ASF is funded through **tax-deductible contributions** from corporations, foundations, and private individuals
-* **The ASF spends 10% or less on overhead**
-* ASF Infrastructure keeps Apache critical support services running 24x7x365 for **less than US$5K per project/year**
-* Help keep Apache software projects **freely available to ALL** around the world
+== Graduation
+[.twocolumns]
+--
+* Demonstrate that the project can operate independently:
+** Self-governance
+** Release management
+* Establish legal framework
+* Publicity
+
+image:fireworks.jpg[float=right]
+--
+
+== Apache Local Community
+* Spread awareness on Apache in local communities
+* Host various events for local open source enthusiasts
+* Share information about ASF, The Apache Way, and various Apache projects
+* Provide a platform and bring together project users and developers

@@ -19,8 +19,8 @@
 ////
 
 :pmcs: 203
-:ipmcs: 304
+:ipmcs: 219
 :ipmc_chair: Justin Mclean
-:podlings: 48
-:members: 765
-:committers: 7035
+:podlings: 45
+:members: 763
+:committers: 7314
