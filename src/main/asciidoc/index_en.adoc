@@ -29,12 +29,16 @@ image::ApacheLogo.png[]
 {authors} +
 
 == Who is Willem Jiang ?
+[.twocolumns]
+--
 * Huawei OpenSource Center Technical Expert
 * Former RedHat Principal Engineer
 * Apache Member
-* Apache Incubator Mentors
-* VP Apache ServiceComb
+* Apache Incubator Mentor
+* PMC Members of multiple ASF projects
 
+image:jiangning.jpg[]
+--
 == Apache Software Foundation: The World’s Largest Open Source Foundation
 
 == The ASF’s Mission
