@@ -264,3 +264,6 @@ image:fireworks.jpg[]
 
 image:qrcode_alc-beijing.jpg[]
 --
+
+== !
+image::HDC-ending-page.png[]
