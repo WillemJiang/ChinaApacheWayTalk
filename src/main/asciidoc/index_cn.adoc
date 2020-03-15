@@ -18,6 +18,9 @@
 ////
 
 == !
+:revealjs_slidenumber: c/t
+:revealjs_showslidenumber: speaker
+
 :description: 介绍ASF以及Apache之道的60分钟演讲
 :keywords: Apache之道
 :authors: 演讲者 + \
@@ -25,8 +28,15 @@
 本演讲包含了 Bertrand Delacretaz, Roman Shaposhnik,Justin Mclean,Craig Russell 以及其它ASF贡献者的工作
 image::ApacheLogo.png[]
 
+
 == 孕育社区 'Apache之道'
 {authors} +
+
+[NOTE.speaker]
+--
+* 各位开发者朋友们，大家下午好！欢迎参加华为DevRun Live开发者沙龙，我是来自Apache软件基金会的姜宁，今天将由我来给大家分享 Apache之道
+--
+
 
 == 姜宁介绍
 [.twocolumns]
@@ -39,6 +49,13 @@ image::ApacheLogo.png[]
 
 image:jiangning.jpg[]
 --
+[NOTE.speaker]
+--
+* 介绍一下我自己
+* 大家对我讲的内容如果有问题，可以在直播间留言，我们有专家与大家互动，也可以登录华为云社区论坛，在今天主题的专属帖子中留言，我会持续关注大家的问题，与大家互动
+--
+
+
 == Apache 软件基金会:
 [.big]#*世界上最大的开源基金会*#
 
@@ -48,12 +65,26 @@ ASF的使命是通过向加入ASF的志同道合的软件项目社区提供服�
 
 ASF提供了一个**独立**于任何公司影响力的**中立空间**，保证其中的项目可以在商业友好Apache许可证2.0下繁荣发展， 为**公众利益**创建**开源软件**。
 
+--
+[NOTE.speaker]
+--
+* 软件基金会: 公益组织，为开源项目提供法律，基础设施，是一个厂商中立的组织，使用商业友好许可协议。
+--
+
 == 公开成立于1999年的公益组织
 
 [.big]#*使命: 为公众利益提供免费的软件。*#
 
 == !
 image::ApacheProjects.png[]
+
+--
+[NOTE.speaker]
+--
+* ASF旗下有 200多个PMC管理300多个项目，有很多大家耳熟能详的项目
+* 为了帮助新的项目融入到ASF，提供了孵化器， 孵化器目前有进50个孵化项目
+* Apache是一个公司，member相当于是ASF的股东，每年3月会举办会员大会， 有7000多个代码提交
+--
 
 == 第一个项目
 image::ApacheHttpd.png[]
@@ -81,6 +112,12 @@ image::ApacheHttpd.png[]
 
 == ASF 提供了项目的治理
 [.big]#Apache之道#
+
+--
+[NOTE.speaker]
+--
+* ASF旗下管理了进三百个项目，其中也很多知名项目， ASF的成功经验。
+--
 
 == “Apache之道” 核心原则
 * 协作式软件开发
@@ -111,6 +148,16 @@ AKA +
 == !
 image::ApacheStatistics.jpg[]
 
+--
+[NOTE.speaker]
+--
+* 展示了几个有趣的统计指标
+* 中国下载量最大
+* 代码量是反应了项目规模的扩大
+* 随着Slack的兴起，issue和邮件沟通少了
+--
+
+
 == !
 image::ApacheSponsors.png[]
 [.small]#获取铜牌赞助商以最新赞助信息,请访问http://www.apache.org/foundation/thanks.html#
@@ -121,6 +168,12 @@ image::ApacheSponsors.png[]
 * **合作与竞争** — 竞争对手可以通过开源项目合作共赢
 * **“免费的”培训** — 通过社区培训新的开发者省时省力
 * **法律保护** — ASF为贡献者提供法律保护
+
+--
+[NOTE.speaker]
+--
+* 大量项目加入到Apache的好处
+--
 
 == Apache孵化器
 [.twocolumns]
@@ -164,19 +217,6 @@ image::spiral.jpg[width=70%]
 * SGA, CLA, iCLA 签名
 * 孵化项目名称搜索
 
-== 许可协议是关键
-* **起源** — 当代码被创造出来时，需要建立许可协议
-* **商标** — 不可以与已经存在的名称有冲突
-* **软件许可** — 现有代码，测试，文档需要知识产权的拥有者需要将软件许可赋予Apache
-* **贡献者协议** — 在Apache的贡献需要遵循贡献者协议：
-** 版权， 专利， 分发/修改
-
-== Apache软件许可协议
-* 万能捐献者
-* 务实
-* 免费用于商业和非商业用途
-* 兼容其他开源协议
-
 == 基础设施
 * **邮件列表** — “不在邮件列表中讨论的事件就没有发生。”
 * **问题跟踪** - 使用JIRA或者Github issue来追踪与开发相关的问题。
@@ -205,6 +245,7 @@ image::spiral.jpg[width=70%]
 ** 与下游项目建立合作
 * 授之于鱼与授之于渔
 * 帮助开发者成为代码提交者
+
 
 == 对发布进行投票
 * 邮件列表中可以进行投票，投票开放72小时
@@ -267,3 +308,10 @@ image:qrcode_alc-beijing.jpg[]
 
 == !
 image::HDC-ending-page.png[]
+
+--
+[NOTE.speaker]
+--
+* 以上就是我今天我要分享的内容，下面我来回答一下小助手给我整理的线上观众的提问
+* 感谢大家参加今天的开发者沙龙，我的演讲到此结束，演讲材料将会分享在华为云社区论坛中，更多的精彩内容请持续关注华为HDC.Cloud 2020 ！
+--

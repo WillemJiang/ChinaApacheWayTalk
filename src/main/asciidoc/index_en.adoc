@@ -164,19 +164,6 @@ image::spiral.jpg[width=70%]
 * SGA, CLA, iCLA Signing
 * Podling name searching
 
-== Licensing is a key aspect
-* **Provenance** — Establish where every line of code originated
-* **Trademarks** — Must not conflict with existing names
-* **Software Grants** — The owner of the intellectual property of existing code/test/documentation must grant rights to Apache
-* **Contributor Licenses** — Contributions while at Apache are governed by contributor licenses:
-** Copyright, Patent, Distribution/Modification
-
-== Apache License
-* Universal donor
-* Pragmatic
-* Free for commercial and non-commercial use
-* Compatible with other Open Source licenses
-
 == Integrating with Apache Infrastructure
 * **Mail lists** — “If it isn't on an archived list, it didn't happen”.
 * **Issues** - Using JIRA or github issue to track the development related issues.
