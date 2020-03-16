@@ -18,7 +18,7 @@
 ////
 
 == !
-:description: 60 minute talk on the ASF foundation and the Apache Way
+:description: 45 minute talk on the ASF foundation and the Apache Way
 :keywords: Apache Way
 :authors: Presented by + \
 Willem Jiang + \

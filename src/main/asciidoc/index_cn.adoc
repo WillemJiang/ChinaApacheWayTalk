@@ -21,7 +21,7 @@
 :revealjs_slidenumber: c/t
 :revealjs_showslidenumber: speaker
 
-:description: 介绍ASF以及Apache之道的60分钟演讲
+:description: 介绍ASF以及Apache之道的45分钟演讲
 :keywords: Apache之道
 :authors: 演讲者 + \
 姜宁 + \
@@ -55,9 +55,9 @@ image:jiangning.jpg[]
 * 大家对我讲的内容如果有问题，可以在直播间留言，我们有专家与大家互动，也可以登录华为云社区论坛，在今天主题的专属帖子中留言，我会持续关注大家的问题，与大家互动
 --
 
-
 == Apache 软件基金会:
 [.big]#*世界上最大的开源基金会*#
+
 
 == Apache软件基金会的使命
 [.small]#Apache软基金金会 (ASF) 是一个根据美国法案 501(c)(3)注册公益性组织。
@@ -65,7 +65,6 @@ ASF的使命是通过向加入ASF的志同道合的软件项目社区提供服�
 
 ASF提供了一个**独立**于任何公司影响力的**中立空间**，保证其中的项目可以在商业友好Apache许可证2.0下繁荣发展， 为**公众利益**创建**开源软件**。
 
---
 [NOTE.speaker]
 --
 * 软件基金会: 公益组织，为开源项目提供法律，基础设施，是一个厂商中立的组织，使用商业友好许可协议。
@@ -78,7 +77,6 @@ ASF提供了一个**独立**于任何公司影响力的**中立空间**，保证
 == !
 image::ApacheProjects.png[]
 
---
 [NOTE.speaker]
 --
 * ASF旗下有 200多个PMC管理300多个项目，有很多大家耳熟能详的项目
@@ -113,7 +111,6 @@ image::ApacheHttpd.png[]
 == ASF 提供了项目的治理
 [.big]#Apache之道#
 
---
 [NOTE.speaker]
 --
 * ASF旗下管理了进三百个项目，其中也很多知名项目， ASF的成功经验。
@@ -148,7 +145,6 @@ AKA +
 == !
 image::ApacheStatistics.jpg[]
 
---
 [NOTE.speaker]
 --
 * 展示了几个有趣的统计指标
@@ -156,7 +152,6 @@ image::ApacheStatistics.jpg[]
 * 代码量是反应了项目规模的扩大
 * 随着Slack的兴起，issue和邮件沟通少了
 --
-
 
 == !
 image::ApacheSponsors.png[]
@@ -169,7 +164,6 @@ image::ApacheSponsors.png[]
 * **“免费的”培训** — 通过社区培训新的开发者省时省力
 * **法律保护** — ASF为贡献者提供法律保护
 
---
 [NOTE.speaker]
 --
 * 大量项目加入到Apache的好处
@@ -309,7 +303,6 @@ image:qrcode_alc-beijing.jpg[]
 == !
 image::HDC-ending-page.png[]
 
---
 [NOTE.speaker]
 --
 * 以上就是我今天我要分享的内容，下面我来回答一下小助手给我整理的线上观众的提问
