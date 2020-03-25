@@ -22,6 +22,7 @@
 :keywords: Apache Way
 :authors: Presented by + \
 Willem Jiang + \
+
 Including original work of Bertrand Delacretaz, Roman Shaposhnik, Justin Mclean,Craig Russell and other amazing ASF contributors
 image::ApacheLogo.png[]
 

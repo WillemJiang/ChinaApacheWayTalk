@@ -25,7 +25,9 @@
 :keywords: Apache之道
 :authors: 演讲者 + \
 姜宁 + \
+
 本演讲包含了 Bertrand Delacretaz, Roman Shaposhnik,Justin Mclean,Craig Russell 以及其它ASF贡献者的工作
+:imagesdir: ../resources/images/
 image::ApacheLogo.png[]
 
 
