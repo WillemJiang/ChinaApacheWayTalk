@@ -24,6 +24,8 @@
 Willem Jiang + \
 
 Including original work of Bertrand Delacretaz, Roman Shaposhnik, Justin Mclean,Craig Russell and other amazing ASF contributors
+:imagesdir: ../resources/images/
+
 image::ApacheLogo.png[]
 
 == Growing Community, The Apache Way

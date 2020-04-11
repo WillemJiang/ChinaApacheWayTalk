@@ -21,13 +21,13 @@
 :revealjs_slidenumber: c/t
 :revealjs_showslidenumber: speaker
 
-:description: 介绍ASF以及Apache之道的45分钟演讲
+:description: Apache项目孵化器之道的45分钟演讲
 :keywords: Apache之道
 :authors: 演讲者 + \
 姜宁 + \
-
 本演讲包含了 Bertrand Delacretaz, Roman Shaposhnik,Justin Mclean,Craig Russell 以及其它ASF贡献者的工作
 :imagesdir: ../resources/images/
+
 image::ApacheLogo.png[]
 
 
@@ -47,7 +47,8 @@ image::ApacheLogo.png[]
 * 前红帽软件主任工程师
 * Apache软件基金会会员
 * Apache软件孵化导师
-* 参与了多个Apache软件基金会的项目的开发
+* Apache ServiceComb VP
+* 参与了多个Apache软件基金会的项目的孵化以及开发工作
 
 image:jiangning.jpg[]
 --
@@ -76,6 +77,15 @@ ASF提供了一个**独立**于任何公司影响力的**中立空间**，保证
 
 [.big]#*使命: 为公众利益提供免费的软件。*#
 
+== Apache软基金会的组织架构
+image::organization.png[]
+
+== Apache软件基金会公司治理架构
+image::corporate_governance.png[]
+
+== Apache软件基金会的项目治理架构
+image::project_governance.png[]
+
 == !
 image::ApacheProjects.png[]
 
@@ -92,23 +102,6 @@ image::ApacheHttpd.png[]
 [.big]#**世界上使用最广的服务器** +
 至2020已经成立25年 +
 (加入ASF 21年)#
-
-== Apache 项目涉猎领域
-* 人工智能 AI
-* IoT
-* 大数据
-* 金融管理
-* 气候变化
-
-== Apache项目还没有涉猎的领域[Yet]
-* 机器人
-* 自动驾驶
-* 星际探索
-+
-[.line-through]
-区块链
-* 也有可能是你的项目
-
 
 == ASF 提供了项目的治理
 [.big]#Apache之道#
@@ -204,13 +197,13 @@ image::bridge.jpg[width=70%]
 image::spiral.jpg[width=70%]
 --
 
-== 进入Apache的方法
+== 项目进入ASF
 * 撰写项目提案
-* 找到 Champion 和Mentor
-* 在IPMC讨论提案
+* 找到 Champion 和 Mentor
+* 在 IPMC 讨论提案
 * 为你的提案开始一轮投票表决
-* 在Apache孵化器创建一个孵化项目
-* SGA, CLA, iCLA 签名
+* 在 Apache 孵化器创建一个孵化项目
+* 签署 SGA, CLA, iCLA
 * 孵化项目名称搜索
 
 == 基础设施
@@ -300,13 +293,4 @@ image:fireworks.jpg[]
 * 为ASF项目的用户和开发者提供交流平台
 
 image:qrcode_alc-beijing.jpg[]
---
-
-== !
-image::HDC-ending-page.png[]
-
-[NOTE.speaker]
---
-* 以上就是我今天我要分享的内容，下面我来回答一下小助手给我整理的线上观众的提问
-* 感谢大家参加今天的开发者沙龙，我的演讲到此结束，演讲材料将会分享在华为云社区论坛中，更多的精彩内容请持续关注华为HDC.Cloud 2020 ！
 --
