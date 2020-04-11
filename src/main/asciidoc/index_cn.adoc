@@ -31,13 +31,10 @@
 image::ApacheLogo.png[]
 
 
-== 孕育社区 'Apache之道'
+== Apache孵化器实践
 {authors} +
 
 [NOTE.speaker]
---
-* 各位开发者朋友们，大家下午好！欢迎参加华为DevRun Live开发者沙龙，我是来自Apache软件基金会的姜宁，今天将由我来给大家分享 Apache之道
---
 
 
 == 姜宁介绍
@@ -54,8 +51,9 @@ image:jiangning.jpg[]
 --
 [NOTE.speaker]
 --
-* 介绍一下我自己
-* 大家对我讲的内容如果有问题，可以在直播间留言，我们有专家与大家互动，也可以登录华为云社区论坛，在今天主题的专属帖子中留言，我会持续关注大家的问题，与大家互动
+* 介绍一下我自己,2006年成为Apache committer， 2011年成为Apache member， 2015年成为Apache孵化器导师
+* 参与开发项目 Apache CXF, Apache Camel, Apache SerivceMix，Apache ActiveMQ, Apache ServiceComb
+* 孵化项目 Apache RocketMQ, Apache Skywalking, Apache Doris， Apache Shardingsphere, Apache Weex, Apache iotdb, Apache APISIX
 --
 
 == Apache 软件基金会:
@@ -93,7 +91,7 @@ image::ApacheProjects.png[]
 --
 * ASF旗下有 200多个PMC管理300多个项目，有很多大家耳熟能详的项目
 * 为了帮助新的项目融入到ASF，提供了孵化器， 孵化器目前有进50个孵化项目
-* Apache是一个公司，member相当于是ASF的股东，每年3月会举办会员大会， 有7000多个代码提交
+* Apache是一个公司，member相当于是ASF的股东，每年3月会举办会员大会， 有7000多个代码提交者
 --
 
 == 第一个项目
@@ -161,7 +159,7 @@ image::ApacheSponsors.png[]
 
 [NOTE.speaker]
 --
-* 大量项目加入到Apache的好处
+* 除了能刷PR值，将项目捐献给Apache还有如下好处
 --
 
 == Apache孵化器
@@ -171,6 +169,11 @@ image::ApacheSponsors.png[]
 * 通过导师为社区提供Apache之道的培训。
 
 image::ApacheIncubatorLogo.png[]
+--
+NOTE.speaker]
+--
+* 强调一下合规操作很重要
+* 开源软件的合规风险其实挺高的
 --
 
 == Apache孵化器解读
@@ -257,7 +260,7 @@ image::spiral.jpg[width=70%]
 == 实践创造完美
 * 开始未必是完美的
 * 协议十分复杂
-* 可能对政策不太熟悉
+* 可能对政策不太熟悉，可以向mentor求助
 * 更多的是指导原则，很少有绝对的规则
 * 添加项目正在完善中的声明
 * 提早发布和频繁发布
