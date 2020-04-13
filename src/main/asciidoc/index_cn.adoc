@@ -78,11 +78,36 @@ ASF提供了一个**独立**于任何公司影响力的**中立空间**，保证
 == Apache软基金会的组织架构
 image::organization.png[]
 
+[NOTE.speaker]
+--
+* ASF执行层（总裁，执行副总裁，秘书以及财务）向9人董事会报告，
+* 执行层根据业务需要负责品牌管理，筹款，市场与公共关系，基础设施，会议，旅行赞助，以及法律
+* 绿色部分为外部或者带薪部分
+* Apache是一个公司，member相当于是ASF的股东，每年3月会举办会员大会
+--
+
 == Apache软件基金会公司治理架构
 image::corporate_governance.png[]
 
+[NOTE.speaker]
+--
+* 董事会有Apache会员选举产生
+* 董事会负责人们总裁以及相关执行层面的副总裁
+* 董事会也会对Apache旗下各自项目的运行情况进行监管
+* 为了保证服务治理ASF基础设施是由专门的雇员来负责维护的
+--
+
 == Apache软件基金会的项目治理架构
 image::project_governance.png[]
+
+NOTE.speaker]
+--
+* PMC是项目管理委员会的简称，负责项目的日常运营管理， 每个季度PMC会想董事会发送报告
+* 贡献者和用户在项目治理中没有正式角色，但是他们会发展成为committer和PMC成员
+* Committer对代码和技术方向有发言权
+* PMC定期题目和选举新的提交者和PMC成员
+* ASF公共事务由相关的VP提供
+--
 
 == !
 image::ApacheProjects.png[]
@@ -111,7 +136,7 @@ image::ApacheHttpd.png[]
 
 == “Apache之道” 核心原则
 * 协作式软件开发
-* 商业友好的标准协议
+* 商业友好的标准许可协议
 * 持续提供高质量的软件
 * 以相互尊重，真诚，技术为基础的讨论
 * 致力于标准的实现
@@ -129,21 +154,32 @@ AKA +
 
 [.big]#注意不是所有的项目适合Apache之道的#
 
+[NOTE.speaker]
+--
+* 精英之治 和国内的文化有差异
+* 国内项目在保证透明度这块有一定差距
+* 大家对开源的理解还只停留在代码公开
+--
+
 == Apache之道保证了:
 * 厂商中立
 * 多样性
 * 可信
 * 安全
 
+[NOTE.speaker]
+--
+* 赞助Apache并不能给你的项目买一张入场的门票
+* 野生草根组织的生命力会更强一些
+--
+
 == !
 image::ApacheStatistics.jpg[]
 
 [NOTE.speaker]
 --
-* 展示了几个有趣的统计指标
-* 中国下载量最大
-* 代码量是反应了项目规模的扩大
-* 随着Slack的兴起，issue和邮件沟通少了
+* 中国下载量最大，但是我们深度参与Apache项目开发还是比较少
+* 进几年国内发起的项目在ASF发展得挺不错的
 --
 
 == !
@@ -170,7 +206,7 @@ image::ApacheSponsors.png[]
 
 image::ApacheIncubatorLogo.png[]
 --
-NOTE.speaker]
+[NOTE.speaker]
 --
 * 强调一下合规操作很重要
 * 开源软件的合规风险其实挺高的
@@ -296,4 +332,9 @@ image:fireworks.jpg[]
 * 为ASF项目的用户和开发者提供交流平台
 
 image:qrcode_alc-beijing.jpg[]
+--
+[NOTE.speaker]
+--
+* 通过文章，公众号，播客，给大家介绍Apache
+* 也会组织一些线下的活动，让大家可以与ASF的成员进行比较深度的交流
 --
