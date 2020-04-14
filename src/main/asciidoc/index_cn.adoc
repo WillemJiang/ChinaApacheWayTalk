@@ -98,9 +98,9 @@ image::corporate_governance.png[]
 --
 
 == Apache软件基金会的项目治理架构
-image::project_governance.png[]
+image::project_governance.png[width=80%]
 
-NOTE.speaker]
+[NOTE.speaker]
 --
 * PMC是项目管理委员会的简称，负责项目的日常运营管理， 每个季度PMC会想董事会发送报告
 * 贡献者和用户在项目治理中没有正式角色，但是他们会发展成为committer和PMC成员
