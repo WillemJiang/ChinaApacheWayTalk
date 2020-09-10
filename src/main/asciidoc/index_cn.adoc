@@ -31,7 +31,7 @@
 image::ApacheLogo.png[]
 
 
-== Apache孵化器实践
+== Apache之道
 {authors} +
 
 [NOTE.speaker]
@@ -40,7 +40,7 @@ image::ApacheLogo.png[]
 == 姜宁介绍
 [.twocolumns]
 --
-* 华为开源软件部技术专家
+* 华为开源能力中心技术专家
 * 前红帽软件主任工程师
 * Apache软件基金会会员
 * Apache软件孵化导师
