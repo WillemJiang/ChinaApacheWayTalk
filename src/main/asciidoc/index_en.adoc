@@ -22,10 +22,14 @@
 :keywords: Apache Way
 :authors: Presented by + \
 Willem Jiang + \
-
 Including original work of Bertrand Delacretaz, Roman Shaposhnik, Justin Mclean,Craig Russell and other amazing ASF contributors
 :imagesdir: ../resources/images/
-
+:pmcs: 199
+:ipmcs: 221
+:ipmc_chair: Justin Mclean
+:podlings: 46
+:members: 782
+:committers: 7556
 image::ApacheLogo.png[]
 
 == Growing Community, The Apache Way
@@ -56,7 +60,12 @@ A **neutral space** where projects which are **independent** from any corporate 
 [.big]#*Mission: To provide software at no charge for the public good.*#
 
 == !
-image::ApacheProjects.png[]
+* {committers} Committers
+* {members} Members
+* {pmcs} PMCs
+* {podlings} Podlings
+
+image::feather.png[width=50%]
 
 == First Project
 image::ApacheHttpd.png[]

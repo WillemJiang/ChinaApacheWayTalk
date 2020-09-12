@@ -20,14 +20,18 @@
 == !
 :revealjs_slidenumber: c/t
 :revealjs_showslidenumber: speaker
-
 :description: Apache项目孵化器之道的45分钟演讲
 :keywords: Apache之道
 :authors: 演讲者 + \
 姜宁 + \
 本演讲包含了 Bertrand Delacretaz, Roman Shaposhnik,Justin Mclean,Craig Russell 以及其它ASF贡献者的工作
 :imagesdir: ../resources/images/
-
+:pmcs: 199
+:ipmcs: 221
+:ipmc_chair: Justin Mclean
+:podlings: 46
+:members: 782
+:committers: 7556
 image::ApacheLogo.png[]
 
 
@@ -59,9 +63,16 @@ image:jiangning.jpg[]
 == Apache 软件基金会:
 [.big]#*世界上最大的开源基金会*#
 
-== !
-image::ApacheProjects.png[]
+== Apache 软件基金会
+[.twocolumns]
+--
+* {committers} 提交者(Committers)
+* {members} 会员(Members)
+* {pmcs} 项目管理委员会(PMCs)
+* {podlings} 孵化项目(Podlings)
 
+image::feather.png[width=50%]
+--
 [NOTE.speaker]
 --
 * ASF旗下有 200多个PMC管理300多个项目，有很多大家耳熟能详的项目
